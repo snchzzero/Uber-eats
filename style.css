@@ -1,0 +1,21 @@
+
+.text1
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    line-height: 34px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.end0
+{
+    background-color:#262626;
+    
+}
+
+#start
+{
+    position: absolute; 
+    margin-top: -180px; 
+}
